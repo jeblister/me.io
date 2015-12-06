@@ -26,7 +26,7 @@ data.projects = {
       backgroundColor: 'black'
     },
     {
-      name: 'CSS Stats',
+      name: 'universal static render',
       link: '//github.com/jeblister/universal-static-render',
       description: 'A JavaScript project for static websites that runs on both the client & server. Using webpack to render a website statically, and react-router to switch between pages dynamically all the code use ES6.',
       logo: '',
