@@ -6,6 +6,10 @@
   "scripts": {
     "start": "node build.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeblister/me.io.git"
+  },
   "author": "Mohamed Jebli",
   "license": "MIT"
 }
